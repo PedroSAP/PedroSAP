@@ -62,10 +62,6 @@ I build practical **LLM** and **ML** systems — from **RAG** APIs to analytical
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=PedroSAP&theme=merko&hide_border=true" />
 </div>
 
-<p align="center">
-  <img alt="snake" src="https://raw.githubusercontent.com/PedroSAP/PedroSAP/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
 ---
 
 ### 🤝 Connect
