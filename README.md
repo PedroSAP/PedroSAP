@@ -56,16 +56,7 @@ I build practical **LLM** and **ML** systems — from **RAG** APIs to analytical
 
 ---
 
-### 🚀 Highlight Projects
-- **ScientificAnimals** — RAG API (Wikipedia + arXiv + HF LLM) · Flask + Docker.  
-- **PlantsScientificGenerator** — FastAPI + public LLM for plant classification · Docker.  
-- **NobrezaPortuguesaQA** — RAG with **LlamaIndex** + HF models running locally.
-
-> I value **clear READMEs**, **reproducible environments**, and **measurable results**.
-
----
-
-### 📈 GitHub Stats (Dark)
+### 📈 GitHub Stats
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=PedroSAP&show_icons=true&theme=merko&hide_border=true" />
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=PedroSAP&theme=merko&hide_border=true" />
