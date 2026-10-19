@@ -29,7 +29,7 @@ Professionally, I work on data science, analytics, and AI-driven automation in t
 
 But I don't want to stop at using AI. I want to **build the tools, architectures, and experiences that make it more useful.**
 
-- 🧠 **Research interests:** Synthetic data, data quality, LLM evaluation, and AI for medicine.
+- 🧠 **Research interests:** AI for medicine and reliable machine learning systems.
 - 🤖 **Engineering focus:** Agentic AI, RAG, LLM systems, orchestration, and evaluation.
 - 🚀 **Builder mindset:** Open-source tools, developer platforms, and experimental AI products.
 - 🧬 **Scientific roots:** Bioinformatics, computational biology, and epidemiology.
@@ -37,15 +37,12 @@ But I don't want to stop at using AI. I want to **build the tools, architectures
 
 ---
 
-### 🔭 What I'm Exploring & Building
+### 🔭 What Drives My Work
 
-| Area | What interests me |
-|:---|:---|
-| 🧬 **AI for Medicine** | Exploring how trustworthy AI and better training data can support biomedical research. |
-| 🧪 **Synthetic Data Research** | Evaluating dataset quality and predicting downstream model performance before expensive training. |
-| 🤖 **Agentic AI** | Designing modular agents with tools, memory, context management, and measurable reliability. |
-| ⚙️ **AI Engineering** | Building LLM applications with reproducible pipelines, structured outputs, and robust evaluation. |
-| 🚀 **AI Products** | Turning useful experiments into accessible, open-source tools and potential products. |
+- 🤖 **AI Engineering:** Building useful LLM applications, RAG systems, and intelligent agents.
+- 🧬 **AI for Medicine:** Bringing together my biomedical background and my interest in AI research.
+- ⚙️ **Software Craft:** Clean architecture, reproducibility, testing, and tools people can build upon.
+- 🌱 **Open Source:** Sharing practical projects, learning in public, and collaborating with curious minds.
 
 ---
 
@@ -65,21 +62,6 @@ A retrieval-augmented question-answering API for exploring Portuguese nobility a
 A lightweight API using Hugging Face models to retrieve scientific plant names.
 
 `Python` · `FastAPI` · `Hugging Face`
-
----
-
-### 🧪 Inside My Experimental Lab
-
-Some ideas are already prototypes. Others are still taking shape.
-
-| Project | Direction | Stage |
-|:---|:---|:---|
-| 📖 **ChunkFlow** | AI-assisted reading, comprehension, and learning experiences. | Private prototype |
-| 🔬 **Synthetic Data Evaluation Framework** | Assessing training dataset suitability through controlled perturbations and downstream performance. | Research |
-| 🔗 **SignalPipes** | AI-assisted pipelines and developer automation. | Concept / Design |
-| 🧩 **AgenSI** | A platform concept for discovering and using specialized AI agents. | Concept / Design |
-
-*I believe good ideas deserve prototypes, not just presentations.*
 
 ---
 
